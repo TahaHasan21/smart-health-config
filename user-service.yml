@@ -1,11 +1,8 @@
 # user-service.yml
 
-server:
-  port: 8081
-
 spring:
   application:
-    name: config-server
+    name: user-service
 
 spring:
   datasource:
